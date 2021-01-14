@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.penguine-card{
+    border: 0;
+}
+.penguine-card-footer{
+    background-color:white;
+    border: 0;
+}
+.img-thumbnail-me {
+    width: 50%;
+    height: 50%;
+}
+
+side-img-edit {
+    width: 2px;
+    height: 2px;
+}
+
+.name-highlight {
+    color: lightsalmon;
+    clear: both;
+}
